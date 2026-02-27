@@ -7,3 +7,9 @@
   <br>
   <img src="https://media.tenor.com/JkC8YUQEM4wAAAAi/cat-cat-walk.gif" alt="Cat in snow" width="300" style="margin-top: -400px;">
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
