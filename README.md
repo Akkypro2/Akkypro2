@@ -5,5 +5,5 @@
     <img alt="Background" src="./assets/snowfall.gif" width="800">
   </picture>
   <br>
-  <img src="https://tenor.com/drMybGidihs.gif" alt="Cat in snow" width="300" style="margin-top: -400px;">
+  <img src="https://media.tenor.com/JkC8YUQEM4wAAAAi/cat-cat-walk.gif" alt="Cat in snow" width="300" style="margin-top: -400px;">
 </div>
