@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akkypro2&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,react,androidstudio,git,github,firebase" />
 </p>
