@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akkypro2&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Akkypro2&theme=tokyonight" />
 </p>
